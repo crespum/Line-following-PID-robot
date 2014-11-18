@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sun 02 Nov 2014 08:19:33 PM CET
+
+BeginCmp
+TimeStamp = /545684D1;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52E9F;
+Reference = R_led_s1;
+ValeurCmp = 220;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52E81;
+Reference = R_led_s2;
+ValeurCmp = 220;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52D0D;
+Reference = R_led_s3;
+ValeurCmp = 220;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52E94;
+Reference = R_led_s4;
+ValeurCmp = 220;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54568099;
+Reference = R_led_s5;
+ValeurCmp = 220;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /545680B7;
+Reference = R_led_s6;
+ValeurCmp = 220;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52EA0;
+Reference = R_sen_s1;
+ValeurCmp = 10k;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52E80;
+Reference = R_sen_s2;
+ValeurCmp = 10k;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52D60;
+Reference = R_sen_s3;
+ValeurCmp = 10k;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52E95;
+Reference = R_sen_s4;
+ValeurCmp = 10k;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /545680A8;
+Reference = R_sen_s5;
+ValeurCmp = 10k;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /545680C6;
+Reference = R_sen_s6;
+ValeurCmp = 10k;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52E9E;
+Reference = Sensor1;
+ValeurCmp = CNY70;
+IdModule  = cny70-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52E82;
+Reference = Sensor2;
+ValeurCmp = CNY70;
+IdModule  = cny70-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52CED;
+Reference = Sensor3;
+ValeurCmp = CNY70;
+IdModule  = cny70-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB52E93;
+Reference = Sensor4;
+ValeurCmp = CNY70;
+IdModule  = cny70-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5456807B;
+Reference = Sensor5;
+ValeurCmp = CNY70;
+IdModule  = cny70-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5456808A;
+Reference = Sensor6;
+ValeurCmp = CNY70;
+IdModule  = cny70-4;
+EndCmp
+
+EndListe

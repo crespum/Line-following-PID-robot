@@ -1,0 +1,262 @@
+PCBNEW-LibModule-V1  Sat 25 Oct 2014 12:00:45 PM CEST
+# encoding utf-8
+Units mm
+$INDEX
+Arduino-Deek-Robot
+$EndINDEX
+$MODULE Arduino-Deek-Robot
+Po 0 0 0 15 544B745C 00000000 ~~
+Li Arduino-Deek-Robot
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.81 1 1 0 0.15 N V 21 N "Arduino-Deek-Robot"
+T1 0 -6.35 1 1 0 0.15 N V 21 N "VAL**"
+T2 1.27 13.97 3 3 900 0.4 N V 21 N "Arduino"
+$PAD
+Sh "10" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 0
+$EndPAD
+$PAD
+Sh "11" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 2.54
+$EndPAD
+$PAD
+Sh "12" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 5.08
+$EndPAD
+$PAD
+Sh "13" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 7.62
+$EndPAD
+$PAD
+Sh "20" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 10.16
+$EndPAD
+$PAD
+Sh "21" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 12.7
+$EndPAD
+$PAD
+Sh "22" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 15.24
+$EndPAD
+$PAD
+Sh "24" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 15.24
+$EndPAD
+$PAD
+Sh "25" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 17.78
+$EndPAD
+$PAD
+Sh "23" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 17.78
+$EndPAD
+$PAD
+Sh "31" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 20.32
+$EndPAD
+$PAD
+Sh "14" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 22.86
+$EndPAD
+$PAD
+Sh "30" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 27.94
+$EndPAD
+$PAD
+Sh "27" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 0
+$EndPAD
+$PAD
+Sh "26" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "35" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "9" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "8" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 2.54
+$EndPAD
+$PAD
+Sh "7" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 5.08
+$EndPAD
+$PAD
+Sh "6" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 7.62
+$EndPAD
+$PAD
+Sh "5" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 10.16
+$EndPAD
+$PAD
+Sh "4" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 12.7
+$EndPAD
+$PAD
+Sh "3" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 15.24
+$EndPAD
+$PAD
+Sh "2" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 17.78
+$EndPAD
+$PAD
+Sh "32" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 20.32
+$EndPAD
+$PAD
+Sh "29" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 22.86
+$EndPAD
+$PAD
+Sh "16" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 27.94
+$EndPAD
+$PAD
+Sh "33" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.985 30.48
+$EndPAD
+$PAD
+Sh "34" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.445 30.48
+$EndPAD
+$PAD
+Sh "28" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.905 30.48
+$EndPAD
+$PAD
+Sh "19" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.635 30.48
+$EndPAD
+$PAD
+Sh "18" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.175 30.48
+$EndPAD
+$PAD
+Sh "17" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.715 30.48
+$EndPAD
+$PAD
+Sh "36" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 25.4
+$EndPAD
+$PAD
+Sh "15" R 2 2 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 25.4
+$EndPAD
+$EndMODULE Arduino-Deek-Robot
+$EndLIBRARY

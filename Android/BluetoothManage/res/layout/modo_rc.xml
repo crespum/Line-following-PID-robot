@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/modo_rc"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    tools:context=".ModoRCActivity" >
+
+    <Button
+        android:id="@+id/btnAdelante"
+        android:layout_width="100dp"
+        android:layout_height="130dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/adelante"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnAtras"
+        android:layout_width="100dp"
+        android:layout_height="130dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="70dp"
+        android:background="@drawable/atras"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnIzquierda"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="30dp"
+        android:layout_toLeftOf="@+id/btnDerecha"
+        android:background="@drawable/izq"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnDerecha"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/der"
+        android:textSize="20sp" >
+    </Button>
+
+</RelativeLayout>

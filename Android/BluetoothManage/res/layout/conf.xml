@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/conf"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnVA"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Velocidad A: 100"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnVB"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Velocidad B: 130"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnVC"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Velocidad C: 160"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnVD"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Velocidad D: 190"
+        android:textSize="20sp" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnVE"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Velocidad E: 220"
+        android:textSize="20sp" >
+    </Button>
+    
+        <Button
+        android:id="@+id/btnVF"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Velocidad E: MÁXIMA"
+        android:textSize="20sp" >
+    </Button>
+
+</LinearLayout>

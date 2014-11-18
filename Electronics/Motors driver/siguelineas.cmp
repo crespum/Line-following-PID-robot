@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sat 25 Oct 2014 12:45:14 PM CEST
+
+BeginCmp
+TimeStamp = /543979EB;
+Reference = IC1;
+ValeurCmp = L293D;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /543C27EB;
+Reference = P1;
+ValeurCmp = CONN_10X2;
+IdModule  = pin_array_10x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54494802;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /544B7E4C;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /544B7E5B;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /544B7CC6;
+Reference = R3;
+ValeurCmp = 5k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /544B7CB7;
+Reference = R4;
+ValeurCmp = 5k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /543C281A;
+Reference = U1;
+ValeurCmp = ARDUINO-DEEK-ROBOT;
+IdModule  = Arduino-Deek-Robot;
+EndCmp
+
+BeginCmp
+TimeStamp = /544B77D2;
+Reference = U2;
+ValeurCmp = 74LS14;
+IdModule  = DIP-14__300;
+EndCmp
+
+EndListe

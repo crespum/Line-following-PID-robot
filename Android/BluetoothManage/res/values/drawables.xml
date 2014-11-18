@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<drawable name="bgcolor">#000000</drawable>
+<drawable name="input">#00FF00</drawable>
+<drawable name="output">#FF0000</drawable>
+</resources>

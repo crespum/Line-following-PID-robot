@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   
+    <string name="app_name">LineDuino</string>
+    <string name="conectarDispositivo">Conectar a LineDuino</string>
+    <string name="monitor">Monitor</string>
+    <string name="modoRC">Modo RC</string>
+    <string name="modoSiguelineas">Modo Siguelíneas</string>
+    <string name="desconectar">Desconectar</string>
+  
+    <string name="send">Enviar</string>
+    <string name="clear">Limpiar</string>
+    
+    <string name="selectonedevice">Selección de dispositivo</string>
+    
+   
+    <string name="number">Introduce un valor hexadecimal correcto
+		ex:\'0-9\',\'A-F\',\'a-f\'.</string>
+
+</resources>

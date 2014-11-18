@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+ 
+            <Button
+                android:id="@+id/btnConectarDispositivo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/conectarDispositivo"
+                android:textSize="20sp" >
+            </Button>
+            
+            <View 
+                android:background="#555555"
+                android:layout_height="1dp"
+                android:layout_width="fill_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <Button
+                android:id="@+id/btnMonitor"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/monitor"
+                android:textSize="20sp" >
+            </Button>
+            
+            <Button
+                android:id="@+id/btnConf"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Configuracion"
+                android:textSize="20sp" >
+            </Button>
+            
+            
+            <Button
+                android:id="@+id/btnModoRC"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/modoRC"
+                android:textSize="20sp" >
+            </Button>
+            
+             <Button
+                android:id="@+id/btnModoSiguelineasBasico"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Siguelineas Basico"
+                android:textSize="20sp" >
+            </Button>
+            
+             <Button
+                android:id="@+id/btnModoSiguelineasPID"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Siguelineas PID"
+                android:textSize="20sp" >
+            </Button>
+             
+
+             <View 
+                android:background="#555555"
+                android:layout_height="1dp"
+                android:layout_width="fill_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+             
+            <Button
+                android:id="@+id/btnDesconectar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/desconectar"
+                android:textSize="20sp" >
+            </Button>
+     
+</LinearLayout>
